@@ -10,7 +10,7 @@ Klemens thermal model was applied to correlate the concentrations of color
 center defects to thermal conductivity reduction in irradiated LiF crystals.
 
 "vk_calcul_debye_klemens_LiF_kvsT" is a code that calculates thermal conductivity of a pristine LiF 
-as a function of temperature using Debye-Klemens model and compares the result with the literature experimental data.
+as a function of temperature using Debye-Klemens model and compares the result with literature experimental data.
 "k_calcul_debye_klemens_LiF_fluence" is a code that calculates thermal conductivity degradation of irradiated LiF
 using crystal parameters from temperature dependent model.
 
