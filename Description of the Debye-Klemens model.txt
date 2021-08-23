@@ -1,0 +1,4 @@
+tU - affects slope after the peak k at lower temperatures
+tB - is bound to the dimensions of the sample. On the other hand, it affects the T at which k is the maximum. In order to "fit" the T(k = max) with experimental, we use tN.
+tN - fefines the peak k position along the axis of T.
+tPD - determines the hight of the graph (scaling).
